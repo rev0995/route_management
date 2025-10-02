@@ -206,7 +206,3 @@ Please check the `graph_data.csv` again to check wheter the intended input is pr
    ```
 Again running for the original `graph_data.csv` this time excluding an edge from 3 to 2 which makes the shortest path changed from the first case. 
 
-## Flow chart: 
-Our project focuses on identifying the nearest destination from the current node by utilizing the A* search algorithm. This process is repeated iteratively until all destination nodes have been visited. The flowchart below provides a clearer and more representation of this approach, illustrating the inputs and outputs involved in the overall process.
-   
-![Flowchart (1)](https://github.com/user-attachments/assets/01801169-5646-41ae-b790-5e2abcd952cb)# route_management
