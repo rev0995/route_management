@@ -169,7 +169,7 @@ compare their `node2` values. This two-level comparison guarantees that each `RB
      ```
 3. **Compiling the Code**
    ```
-   gcc -o main main.c -lm
+   g++ -o main main.c++ -lm
    ```
 4. **Run the code**
    ```
